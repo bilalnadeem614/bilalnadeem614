@@ -5,7 +5,7 @@
 - You can contact me:
 - Email: bilalnadeem883@gmail.com
 - Twitter: https://twitter.com/bilalnadeem614
-- Linkedin: https://www.linkedin.com/in/bilal-nadeem-33735b20a/
+- Linkedin:https://www.linkedin.com/in/bilalnadeem614
 - Code Pen: https://codepen.io/bilalnadeem614
 
 <!---
