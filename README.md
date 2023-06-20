@@ -8,7 +8,7 @@ I'm Bilal Nadeem, a Computer Science student at UET Lahore. I'm passionate about
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=bilalnadeem614)  
 
-![Profile views](https://gpvc.arturio.dev/bilalnadeem614)  
+<!--/*![Profile views](https://gpvc.arturio.dev/bilalnadeem614)*/-->  
 
 
 <!---
