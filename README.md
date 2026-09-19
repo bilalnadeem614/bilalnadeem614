@@ -2,6 +2,7 @@
 
 I am a Computer Science graduate and a Gen-AI Engineer passionate about building autonomous agentic workflows, local LLM architectures, and robust automation pipelines. I love rapid prototyping, diving into hackathons, and turning complex technical challenges into production-ready intelligent systems.
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bilalnadeem614) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bilalnadeem614) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bilalnadeem883@gmail.com) 
 
